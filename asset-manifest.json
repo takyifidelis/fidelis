@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fidelis/static/css/main.3be2973d.chunk.css",
+    "main.js": "/fidelis/static/js/main.e9db168e.chunk.js",
+    "main.js.map": "/fidelis/static/js/main.e9db168e.chunk.js.map",
+    "runtime-main.js": "/fidelis/static/js/runtime-main.66686ef8.js",
+    "runtime-main.js.map": "/fidelis/static/js/runtime-main.66686ef8.js.map",
+    "static/js/2.d14ce67e.chunk.js": "/fidelis/static/js/2.d14ce67e.chunk.js",
+    "static/js/2.d14ce67e.chunk.js.map": "/fidelis/static/js/2.d14ce67e.chunk.js.map",
+    "index.html": "/fidelis/index.html",
+    "precache-manifest.5a3a050dc0b71595c2eb87010d3ca35f.js": "/fidelis/precache-manifest.5a3a050dc0b71595c2eb87010d3ca35f.js",
+    "service-worker.js": "/fidelis/service-worker.js",
+    "static/css/main.3be2973d.chunk.css.map": "/fidelis/static/css/main.3be2973d.chunk.css.map",
+    "static/js/2.d14ce67e.chunk.js.LICENSE.txt": "/fidelis/static/js/2.d14ce67e.chunk.js.LICENSE.txt",
+    "static/media/fidelis.jpg": "/fidelis/static/media/fidelis.751e58bb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66686ef8.js",
+    "static/js/2.d14ce67e.chunk.js",
+    "static/css/main.3be2973d.chunk.css",
+    "static/js/main.e9db168e.chunk.js"
+  ]
+}
