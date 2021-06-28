@@ -45,6 +45,7 @@ export const SkillSectionHeader = styled.h1`
     color: #444;
     font-weight: lighter;
     margin-bottom: 15px;
+    text-align: center;
 
     @media screen and (max-width: 768px){
         margin-bottom: 0;

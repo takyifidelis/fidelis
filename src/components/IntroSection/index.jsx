@@ -13,7 +13,7 @@ function IntroSection() {
 
                 <LandingPageSectionContent>
                     <LandingPageSectionH1>I'm Fidelis</LandingPageSectionH1>
-                    <LandingPageSectionP>What you do </LandingPageSectionP>
+                    <LandingPageSectionP>I'm an Electrical and Electronics Engineer </LandingPageSectionP>
                     <Socials>
                         <SocialsItem target="_blank" href='https://www.linkedin.com/in/fidelis-mensah-3b13291a3/'><FaLinkedin /></SocialsItem>
                         <SocialsItem target="_blank" href='https://github.com/takyifidelis/'><FaGithub /></SocialsItem>
