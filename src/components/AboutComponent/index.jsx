@@ -1,6 +1,7 @@
 import React from 'react'
 import { AboutContainer, ImageBg, AboutContent, AboutH1, AboutP } from './AboutElements'
-import fidelis from '../../images/fidelis.jpg';
+// import fidelis from '../../images/fidelis.jpg';
+import fide from '../../images/fide.jpg';
 
 
 const AboutSection = () => {
@@ -8,12 +9,13 @@ const AboutSection = () => {
     return (
         <AboutContainer id="about" className="about-container">
             <div>
-                <ImageBg src={fidelis} alt="Your image" />
+                <ImageBg src={fide} alt="Your image" />
             </div>
             <AboutContent>
                 <AboutH1>ABOUT ME</AboutH1>
                 <AboutP>
-                    I am Fidelis Takyi Mensah, I am a Graduate Electrical and Electronic engineer with demonstrated experience in solving real world industry problems, i completed basic school at Navy Basic School in the year 2013 and proceeded to GSTS that same year. I was a General Science student and completed in May 2016. I was admitted in University of Energy and Natural Resources in August 2017 to read BSc Electrical and Electronic Engineering.</AboutP>
+                Hi there, I'm <strong>Fidelis Takyi Mensah</strong>, a passionate Front-end engineer with a strong background in solving real-world industry problems through innovative web development. I'm dedicated to creating web experiences that are not only visually appealing but also highly functional and user-friendly.
+                </AboutP>
             </AboutContent>
         </AboutContainer>
     )

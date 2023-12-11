@@ -1,5 +1,5 @@
 {
-  "homepage":"https://takyifidelis.github.io/fidelis",
+  "homepage": "https://takyifidelis.github.io/fidelis",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "react-icons": "^3.11.0",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.3",
+    "react-scripts": "^5.0.1",
     "react-scroll": "^1.8.1",
     "react-slick": "^0.27.12",
     "styled-components": "^5.2.0"

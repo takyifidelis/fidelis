@@ -46,11 +46,11 @@ function Skills() {
                 <div>
                     <SkillSectionHeader>Programming Languages</SkillSectionHeader>
                     <SkillSectionData>
+                        <SkillSectionDataList>JavaScript</SkillSectionDataList>
                         <SkillSectionDataList>C++</SkillSectionDataList>
                         <SkillSectionDataList>Python</SkillSectionDataList>
                         <SkillSectionDataList>Matlab</SkillSectionDataList>
                         <SkillSectionDataList>Latex</SkillSectionDataList>
-                        <SkillSectionDataList>SQL</SkillSectionDataList>
                     </SkillSectionData>
                 </div>
 
