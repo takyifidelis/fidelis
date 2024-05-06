@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fidelis/static/css/main.75b2e934.css",
-    "main.js": "/fidelis/static/js/main.f3b8ca5b.js",
+    "main.js": "/fidelis/static/js/main.3284f594.js",
     "static/media/fide.jpg": "/fidelis/static/media/fide.4201dfc33c5d2c068cb3.jpg",
     "index.html": "/fidelis/index.html",
     "main.75b2e934.css.map": "/fidelis/static/css/main.75b2e934.css.map",
-    "main.f3b8ca5b.js.map": "/fidelis/static/js/main.f3b8ca5b.js.map"
+    "main.3284f594.js.map": "/fidelis/static/js/main.3284f594.js.map"
   },
   "entrypoints": [
     "static/css/main.75b2e934.css",
-    "static/js/main.f3b8ca5b.js"
+    "static/js/main.3284f594.js"
   ]
 }
