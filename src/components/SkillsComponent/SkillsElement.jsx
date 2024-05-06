@@ -57,14 +57,16 @@ export const SkillSectionData= styled.ul`
     display: flex;
     flex-direction: column;
     list-style: none;
+  
     `
 
 export const SkillSectionDataList= styled.li`
 font-weight: lighter;
 font-size: 20px;
-text-align: center;
+
 margin-top: 10px;
 color: #555;
+text-align: left;
 
 &:last-child{
     margin-bottom: 30px;

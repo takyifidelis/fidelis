@@ -9,48 +9,50 @@ function Skills() {
     return (
         <div>
             <SkillsContainer id="skills">
-                <SkillHeaderMain>SKILLS</SkillHeaderMain>
+                <SkillHeaderMain>SKILLS AND EXPERTISE</SkillHeaderMain>
 
 
                 <div>
-                    <SkillSectionHeader>Technologies</SkillSectionHeader>
+                    <SkillSectionHeader>Languages and Frameworks</SkillSectionHeader>
                     <SkillSectionData>
-                        <SkillSectionDataList>Microsoft Office (Word, Excel, Assess, PowerPoint)</SkillSectionDataList>
-                        <SkillSectionDataList>AutoCAD Electrical</SkillSectionDataList>
-                        <SkillSectionDataList>Xilinx Vivado (VHDL)</SkillSectionDataList>
-                        <SkillSectionDataList>MATLAB</SkillSectionDataList>
+                        
+                   
+                        <SkillSectionDataList>SQL (Data Analytics)</SkillSectionDataList>                        
+                        <SkillSectionDataList>Git (Version Control)</SkillSectionDataList>
+                        <SkillSectionDataList>LateX (Documentation)</SkillSectionDataList>
+                        <SkillSectionDataList>Python (Data Analytics)</SkillSectionDataList>
+                        <SkillSectionDataList>Angular (Web Development)</SkillSectionDataList>
                     </SkillSectionData>
                 </div>
 
                 <div>
-                    <SkillSectionHeader>Relevant Courses</SkillSectionHeader>
+                    <SkillSectionHeader>Certifications</SkillSectionHeader>
                     <SkillSectionData>
-                        <SkillSectionDataList>Electrical Measurements and Instrumentation</SkillSectionDataList>
-                        <SkillSectionDataList>Fault Diagnosis and Failure Tolerance</SkillSectionDataList>
-                        <SkillSectionDataList>Computer Programming for Engineers</SkillSectionDataList>
-                        <SkillSectionDataList> Digital and Analogue communication</SkillSectionDataList>
-                        <SkillSectionDataList>Classical Control Systems</SkillSectionDataList>
-                        <SkillSectionDataList>Digital Control System</SkillSectionDataList>
-                        <SkillSectionDataList>Digital Computer Design</SkillSectionDataList>
-                        <SkillSectionDataList>Photovoltaic Systems</SkillSectionDataList>
-                        <SkillSectionDataList>Computer Networking</SkillSectionDataList>
-                        <SkillSectionDataList>Power Electronics</SkillSectionDataList>
-                        <SkillSectionDataList>Digital Computing</SkillSectionDataList>
-                        <SkillSectionDataList>Embedded Systems</SkillSectionDataList>
-                        <SkillSectionDataList>Electric Drives</SkillSectionDataList>
-                        <SkillSectionDataList>Microprocessor</SkillSectionDataList>
+                        
+                        <SkillSectionDataList>Angular - The Complete Guide (Udemy)</SkillSectionDataList>
+                        <SkillSectionDataList>Google Project Management Certificate</SkillSectionDataList>
+                        <SkillSectionDataList>jQuery Course</SkillSectionDataList>
+                        <SkillSectionDataList>BootStrap Course</SkillSectionDataList>
+                        <SkillSectionDataList>Git and GitHub Course</SkillSectionDataList>                        
+                        <SkillSectionDataList>Complete JavaScript Course</SkillSectionDataList>
+                        <SkillSectionDataList>Lean Six Sigma, LinkedIn Learning</SkillSectionDataList>
+                        <SkillSectionDataList>Google Data Analytics Certificate</SkillSectionDataList>
+                        
+
                     </SkillSectionData>
                 </div>
 
 
                 <div>
-                    <SkillSectionHeader>Programming Languages</SkillSectionHeader>
+                    <SkillSectionHeader>Projects</SkillSectionHeader>
                     <SkillSectionData>
-                        <SkillSectionDataList>JavaScript</SkillSectionDataList>
-                        <SkillSectionDataList>C++</SkillSectionDataList>
-                        <SkillSectionDataList>Python</SkillSectionDataList>
-                        <SkillSectionDataList>Matlab</SkillSectionDataList>
-                        <SkillSectionDataList>Latex</SkillSectionDataList>
+                      
+                        <SkillSectionDataList><a href="https://storefront.amalitech-dev.net/">StoreFront</a></SkillSectionDataList>                       
+                        <SkillSectionDataList><a href="https://phase2-tictactoe-fidelis.netlify.app/">TicTacToe Game</a></SkillSectionDataList>
+                        <SkillSectionDataList><a href="https://bmi-calculator-fidelis.netlify.app/">BMI Calculator</a></SkillSectionDataList>
+                        <SkillSectionDataList><a href="https://rest-country-api-25202.web.app/">Rest Country API</a></SkillSectionDataList>
+                        <SkillSectionDataList><a href="https://github.com/cypher20b/ATS">Application Track System</a></SkillSectionDataList>
+                    
                     </SkillSectionData>
                 </div>
 

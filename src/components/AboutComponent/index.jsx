@@ -14,7 +14,7 @@ const AboutSection = () => {
             <AboutContent>
                 <AboutH1>ABOUT ME</AboutH1>
                 <AboutP>
-                Hi there, I'm <strong>Fidelis Takyi Mensah</strong>, a passionate Front-end engineer with a strong background in solving real-world industry problems through innovative web development. I'm dedicated to creating web experiences that are not only visually appealing but also highly functional and user-friendly.
+                Hi there, I'm <strong>Fidelis Takyi Mensah</strong>, a passionate Software Engineer with a strong background in solving real-world industry problems through innovative web development. I'm dedicated to creating web experiences that are not only visually appealing but also highly functional and user-friendly.
                 </AboutP>
             </AboutContent>
         </AboutContainer>

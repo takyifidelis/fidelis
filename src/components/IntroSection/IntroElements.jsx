@@ -70,9 +70,7 @@ export const LandingPageSectionP= styled.p`
 export const Socials = styled.ul`
     display: flex;
     list-style: none;
-    text-align: center;
-    align-items: center;
-    margin-top: 40px;
+    margin-top: 30px;
 `
 
 export const SocialsItem= styled.a`
