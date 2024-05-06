@@ -29,14 +29,14 @@ function Skills() {
                     <SkillSectionHeader>Certifications</SkillSectionHeader>
                     <SkillSectionData>
                         
-                        <SkillSectionDataList>Angular - The Complete Guide (Udemy)</SkillSectionDataList>
-                        <SkillSectionDataList>Google Project Management Certificate</SkillSectionDataList>
-                        <SkillSectionDataList>jQuery Course</SkillSectionDataList>
-                        <SkillSectionDataList>BootStrap Course</SkillSectionDataList>
-                        <SkillSectionDataList>Git and GitHub Course</SkillSectionDataList>                        
-                        <SkillSectionDataList>Complete JavaScript Course</SkillSectionDataList>
-                        <SkillSectionDataList>Lean Six Sigma, LinkedIn Learning</SkillSectionDataList>
-                        <SkillSectionDataList>Google Data Analytics Certificate</SkillSectionDataList>
+                        <SkillSectionDataList><a href="https://drive.google.com/file/d/1wSO7swjw4oWDur5s7mfRnLqe_SaBLab5/view?usp=sharing">Angular - The Complete Guide (Udemy)</a></SkillSectionDataList>
+                        <SkillSectionDataList><a href="https://drive.google.com/file/d/10v8YDUmkzeMcyTnUjjTa-Ayc_3FwbcKr/view?usp=sharing">Google Project Management Certificate</a></SkillSectionDataList>
+                        <SkillSectionDataList><a href="https://drive.google.com/file/d/1qU6-puqp2IcOWUTgic0EynNlulX5OH4t/view?usp=sharing">jQuery Course</a></SkillSectionDataList>
+                        <SkillSectionDataList><a href="https://drive.google.com/file/d/1wSO7swjw4oWDur5s7mfRnLqe_SaBLab5/view?usp=sharing">BootStrap Course</a></SkillSectionDataList>
+                        <SkillSectionDataList><a href="https://drive.google.com/file/d/1hZJjgeeNCZTN9VL--1EQfKHZ5u49rtxd/view?usp=sharing">Git and GitHub Course</a></SkillSectionDataList>                        
+                        <SkillSectionDataList><a href="https://drive.google.com/file/d/1hZJjgeeNCZTN9VL--1EQfKHZ5u49rtxd/view?usp=sharing">Complete JavaScript Course</a></SkillSectionDataList>
+                        <SkillSectionDataList><a href="https://drive.google.com/file/d/1wSO7swjw4oWDur5s7mfRnLqe_SaBLab5/view?usp=sharing">Lean Six Sigma, LinkedIn Learning</a></SkillSectionDataList>
+                        <SkillSectionDataList><a href="https://drive.google.com/file/d/1MpN0HrJQmV5t9WNhLpP9_SEdrPC5BoZZ/view?usp=sharing">Google Data Analytics Certificate</a></SkillSectionDataList>
                         
 
                     </SkillSectionData>
